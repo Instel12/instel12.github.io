@@ -33,6 +33,16 @@ body{
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px
 }
+.menu4{
+    margin-top: -1%;
+    margin-left: 10%;
+    background-color: rgb(146, 45, 45);
+    height: 75%;
+    width: 300px;
+    color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px
+}
 .title{
     font-size: 50px;
     text-decoration: underline;
