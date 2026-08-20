@@ -1,0 +1,56 @@
+@font-face {
+    font-family: "Minecraft";
+    src: url(/Assets/Fonts/Minecraft.ttf) format("truetype");
+}
+
+body {
+    font-family: "Minecraft";
+    text-transform: uppercase;
+    color: white;
+    background-color: rgb(110, 0, 0);
+
+    padding: 0;
+    margin: 0;
+}
+
+.Content {
+    width: 50vw;
+    height: 100vh; /* only temporary */
+    margin: 0 auto;
+    background-color: black;
+
+    padding-left: 25px;
+    padding-right: 25px;
+    /* padding-bottom: 25px; */
+}
+
+.Banner {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Banner h1 {
+    margin: 0;
+}
+
+.Message {
+    display: block;
+    color: yellow;
+}
+
+.Content h4 {
+    text-align: center;
+}
+
+button {
+    font-family: "Minecraft";
+    text-transform: uppercase;
+    border: none;
+}
+
+.OverrideCase {
+    text-transform: none;
+}
