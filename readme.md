@@ -1,5 +1,5 @@
 # Instel12.github.io
-👆 get a lot of that header
+👆 get a load of that header
 <hr>
 
 This is my static website i guess. Its safe to say it got a huge improvement. The original source was just 1 html file with very minimal css.

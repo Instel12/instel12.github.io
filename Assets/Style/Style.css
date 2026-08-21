@@ -69,3 +69,7 @@ button {
 a {
     color: rgb(255, 255, 255);
 }
+
+.FullCenter {
+    text-align: center;
+}

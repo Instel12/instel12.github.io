@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     async function DoIt() {
-        const res = await fetch("/Assets/Repos.json");
+        const res = await fetch("/Assets/Data/Repos.json");
         const repos = await res.json();
 
         for (const [user, userRepos] of Object.entries(repos)) {
