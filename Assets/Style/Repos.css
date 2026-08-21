@@ -1,0 +1,34 @@
+.Repos {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.OthersRepos {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.Repo {
+    border: 2px solid white;
+    padding: 15px;
+}
+
+.Repo h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.Repo p {
+    text-transform: none;
+}
+
+.Repo span {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.Repo a {
+    text-decoration: none;
+}
